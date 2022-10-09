@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <body>
-      <h1> Grade 6 SA 1 </h1>
-      <p style="font-family:Cooper;">I have learnt how to start a HTML </p>
-      <p style="font-size:50px;"I know how to use a header </p>
-      <p style="color:red;" Now i know how to use paragraph </p>
-    </body>
-    </html>
+    <body style="background-color:Yellow;">
+      <h1> Sale in ZARA </h1>
+      <p align ="center"><b> BIG OFFERS!!</p>
+      <p align ="right"><i><b> TSHIRTS and CLOTHES</p>
+        <p style="color: red;">50% OFF</p>
+        </body>
+      </html>
