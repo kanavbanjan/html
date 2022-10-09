@@ -6,7 +6,7 @@
       <h2> Computer Assesment </h2>
       <h3> Learning HTML </h3>
       <p><i><b> I have learnt how to start a HTML </p>
-        <p><i> I know how to use a header
+        <p align = "right"><i> I know how to use a header
       <p align = "center"><i><b> Now i know how to use paragraph
     </body>
     </html>
