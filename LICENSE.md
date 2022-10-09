@@ -10,7 +10,7 @@
     color: orange;
     padding=15px;
     margin: 10px 0px;
-    border: nobne;
+    border: none;
     cursor: pointer;
     }
     form {
@@ -18,11 +18,11 @@
     }
     input[type=text], input[type=password] {
     width: 100%;
-    margin: 8px 0px;
+    margin: 8px 0;
     padding: 12px 20px;
     display: inline-block;
     border: 2px solid green;
-    box-sizing; border-box;
+    box-sizing: border-box;
     }
     button:hover {
     opacity: 0.7;
