@@ -7,5 +7,6 @@
       <h3> Learning HTML </h3>
       <p><i><b> I have learnt how to start a HTML </p>
         <p><i> I know how to use a header
+      <p><i><b> Now i know hot use paragraph
     </body>
     </html>
