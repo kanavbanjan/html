@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <body style="background-color:Yellow;">
-      <h1> Sale in ZARA </h1>
-      <p align ="center"><b> BIG OFFERS!!</p>
-      <p align ="right"><i><b> TSHIRTS and CLOTHES</p>
-        <p style="color: red;">50% OFF</p>
-        </body>
-      </html>
+    <body>
+      <h1> Eletrical Infrastructure </h1>
+      <img src ="infrastructure.jpg" alt = "MY IMAGE"
+           width="400" height="400" border="10" align="center"/>
+    </body>
+    </html>
