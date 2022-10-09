@@ -7,7 +7,7 @@
     Body {
     font-family: Calibiri, Helvetica, sans-serif;
     background-color:  #4CAF50;
-    width: 100%
+    width: 100%;
     color: orange;
     padding=15px;
     margin: 10px 0px;
@@ -31,7 +31,7 @@
     .cancelbtn {
     width: auto;
     padding: 10px 18px;
-    margin: 10px 5px:
+    margin: 10px 5px;
     }
     .container {
     padding: 25px;
