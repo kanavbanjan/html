@@ -7,6 +7,6 @@
       <h3> Learning HTML </h3>
       <p style="font-family:Cooper;">I have learnt how to start a HTML </p>
       <p style="font-size:50px;"I know how to use a header </p>
-      <p align = "center"><i><b> Now i know how to use paragraph
+      <p style="color:red;" Now i know how to use paragraph </p>
     </body>
     </html>
