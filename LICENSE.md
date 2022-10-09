@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
-<body> Hello my name is Kanav banjan
+<body>
+  <h1> My self in paragraphy </h1>
+  <p><b> Kanav Banjan</p></b>
 </body>
 </html>
